@@ -1,0 +1,6 @@
+[submodule "trumpocalypse-ui"]
+	path = trumpocalypse-ui
+	url = https://github.com/Sagelt/trumpocalypse-ui.git
+[submodule "_data/trumpocalypse"]
+	path = _data/trumpocalypse
+	url = https://github.com/Sagelt/trumpocalypse.git
